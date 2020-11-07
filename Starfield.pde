@@ -62,4 +62,3 @@ class OddballParticle extends Particle
     ellipse((float)myX, (float)myY, 50, 50);
   }
 }
-
